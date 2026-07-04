@@ -60,7 +60,7 @@ public class casino{
                     }
                     monedas -= 10;
                     partidas++;
-                    System.out.println("\n1. Cara");
+                    System.out.println("1. Cara");
                     System.out.println("2. Sello");
                     System.out.print("Elige: ");
                     int jugador = entrada.nextInt();
